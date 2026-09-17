@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labmicro7/Music/Edu_Fred/aula_4/led_mux8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity led_mux8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labmicro7/Music/Edu_Fred/aula_4/hex_to_sseg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity hex_to_sseg
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labmicro7/Music/Edu_Fred/aula_4/eq_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity eq_top
+ERROR: [VRFC 10-719] formal port/generic <i0> is not declared in <led_mux8> [C:/Users/Labmicro7/Music/Edu_Fred/aula_4/eq_top.vhd:24]
+ERROR: [VRFC 10-2666] formal port clk has no actual or default value [C:/Users/Labmicro7/Music/Edu_Fred/aula_4/eq_top.vhd:22]
+ERROR: [VRFC 10-1504] unit harch ignored due to previous errors [C:/Users/Labmicro7/Music/Edu_Fred/aula_4/eq_top.vhd:13]
+INFO: [VRFC 10-240] VHDL file C:/Users/Labmicro7/Music/Edu_Fred/aula_4/eq_top.vhd ignored due to errors

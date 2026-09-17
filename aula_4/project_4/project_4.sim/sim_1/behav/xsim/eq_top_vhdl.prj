@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../led_mux8.vhd" \
+"../../../../../hex_to_sseg.vhd" \
+"../../../../../eq_top.vhd" \
+
+# Do not sort compile order
+nosort
